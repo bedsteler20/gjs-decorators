@@ -1,0 +1,22 @@
+{
+    "name": "gjs-decorators",
+    "version": "1.0.0",
+    "description": "Some decorators for GJS",
+    "main": "src/index.ts",
+    "type": "module",
+    "keywords": [
+        "gjs",
+        "typescript",
+        "decorators",
+        "gtk",
+        "gobject",
+        "gir",
+        "gnome"
+    ],
+    "author": "bedsteler20",
+    "license": "GPL-3.0-only",
+    "dependencies": {
+        "@girs/gjs": "^3.2.9",
+        "@girs/gobject-2.0": "^2.78.0-3.2.9"
+    }
+}
